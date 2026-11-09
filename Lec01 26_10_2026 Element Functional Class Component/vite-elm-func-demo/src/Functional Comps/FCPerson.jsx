@@ -11,6 +11,7 @@ export default function FCPerson(props) {
   function btnAddOne() {
     num++;
     console.log(num);
+    
   }
 
   function chgNum(e) {
